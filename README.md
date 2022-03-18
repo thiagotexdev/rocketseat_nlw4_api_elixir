@@ -16,3 +16,24 @@ Sinta-se livre para estudar essa aplicação.
 Todos os direitos desta aplicação pertencem a RocketSeat, que desenvolveu este conteúdo.
 
 Saiba mais em https://rocketseat.com.br/
+
+---------------------------------------------------
+
+# Texpay - RocketSeat Next Level Week 4 Event Training App
+
+This application was created as a test to learn more about the Elixir language and the Phoenix Framework.
+This application consists of:
+
+  * A JSON payment API using Elixir and Phoenix.
+  * Deposit Operation.
+  * Withdrawal Operation.
+  * Transfer Operation.
+  * Security between Operations.
+
+The application can be test using Insomnia or Postman.
+
+Feel free to study this application.
+
+All rights to this application belong to RocketSeat, who developed this content.
+
+Learn more at https://rocketseat.com.br/
